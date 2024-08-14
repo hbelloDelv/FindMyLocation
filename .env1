@@ -1,0 +1,5 @@
+HTTPS=true
+
+
+notnow=SSL_CRT_FILE=./localhost.pem
+notnow= SSL_KEY_FILE=./localhost-key.pem

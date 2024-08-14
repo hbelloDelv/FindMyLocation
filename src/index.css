@@ -1,0 +1,22 @@
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#root{
+  height: 100vh;
+}
+
+/* Mobile-specific styles */
+/* @media only screen and (max-width: 768px) {
+  .leaflet-container{
+    width: 50vw;
+    height: 100vh;
+  }
+} */

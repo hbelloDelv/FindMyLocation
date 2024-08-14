@@ -1,0 +1,28 @@
+.form-input {
+    width: 100%;
+    /* background-color: red; */
+}
+
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
+
+.form-input > *{
+    width: 98%;
+    height: 2.5rem;
+    margin: 4px;
+    font-size: 1.2rem;
+}
+
+
+.form-input button{
+    cursor: pointer;
+}
+
+
+.form-input textarea{
+    min-height: 15vh;
+}

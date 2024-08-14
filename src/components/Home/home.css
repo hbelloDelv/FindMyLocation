@@ -1,0 +1,12 @@
+
+/* Mobile-specific styles */
+@media only screen and (max-width: 768px) {
+  .home{
+      min-height: 100vh;
+      background-color: #EDEFEE;
+      width: 100vw;
+  }
+
+}
+
+  
